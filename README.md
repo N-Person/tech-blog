@@ -8,8 +8,8 @@ Writing about tech can be just as important as making it. Developers spend plent
 
 
 
-[title](https://www.example.com)
-[title](https://www.example.com)
+[GitHub](https://github.com/N-Person/tech-blog)
+[GitHubIO](https://n-person.github.io/tech-blog/)
 
 
 
